@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning html
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-- 😄 Pronouns:   gjakovar
+- 😄 Pronouns:  
 - ⚡ Fun fact: 
 
 <!---
